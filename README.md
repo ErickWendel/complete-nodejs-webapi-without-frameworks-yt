@@ -1,6 +1,6 @@
-# Building a complete Node.js WebApi + testing without frameworks
+# Building a complete Node.js WebApi + testing with no frameworks
 
-Welcome, this repo is part of my youtube video about Creating and testing a complete Node.js Rest API (Without frameworks). 
+Welcome, this repo is part of my youtube video about Creating and testing a complete Node.js Rest API (With no frameworks). 
 
 First of all, leave your star 🌟 on this repo.
 
