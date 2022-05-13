@@ -4,7 +4,7 @@ Welcome, this repo is part of my youtube video about Creating and testing a comp
 
 First of all, leave your star 🌟 on this repo.
 
-Access our [**exclusive telegram channel**](https://bit.ly/ErickWendelContentHub) so I'll let you know about all the content I've been producing: 
+Access our [**exclusive telegram channel**](https://bit.ly/ErickWendelContentHub) so I'll let you know about all the content I've been producing 
 
 ## Features Checklist + Challenges
 
