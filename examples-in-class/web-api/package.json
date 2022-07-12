@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "test": "node --test tests/"
+    "test": "PORT=9009 node --test"
   },
   "keywords": [],
   "author": "",
